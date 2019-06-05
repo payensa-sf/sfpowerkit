@@ -345,7 +345,7 @@ _See code: [src\commands\sfpowerkit\org\sandbox\refresh.ts](https://github.com/a
 
 ## `sfpowerkit:org:scratchorg:usage`
 
-Gets the active count of scratch org by users in a devhub
+Gets the active count of scratch org by users in a devhub, Ensure you have valid permissions 
 
 ```
 USAGE
@@ -373,7 +373,7 @@ _See code: [src\commands\sfpowerkit\org\scratchorg\usage.ts](https://github.com/
 
 ## `sfpowerkit:org:scratchorg:delete`
 
-Delete the scratch org for a paritcular user
+Delete the scratch org for a paritcular user.  Ensure you have valid permissions 
 
 ```
 USAGE
